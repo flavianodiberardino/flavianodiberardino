@@ -1,8 +1,6 @@
 <h1>Hi, I'm Flaviano</h1>
 <h3>I'm a dedicated and detail-oriented software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flavianodiberardino&label=Profile%20views&color=0e75b6&style=flat" alt="flavianodiberardino" /> </p>
-
 - 🔭 I’m currently working at [MercadoLibre](https://github.com/mercadolibre)
 
 - 👯 I’m looking to collaborate on **cool and interesting projects**
