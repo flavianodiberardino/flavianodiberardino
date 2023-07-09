@@ -1,13 +1,13 @@
 <h1>Hi, I'm Flaviano</h1>
 <h3>I'm a dedicated and detail-oriented software developer</h3>
 
-- 🔭 I’m currently working at [MercadoLibre](https://github.com/mercadolibre)
+- 👨‍💻 I’m currently working at [MercadoLibre](https://github.com/mercadolibre)
 
-- 👯 I’m looking to collaborate on **cool and interesting projects**
+- 🧠 I’m looking to collaborate on **cool and interesting projects**
 
 - 💬 Ask me about **Go, JavaScript and whatever you think I can help you with**
 
-- 📫 How to reach me **fddbh1@gmail.com**
+- 📩 How to reach me **fddbh1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
