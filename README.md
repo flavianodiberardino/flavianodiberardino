@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working at [MercadoLibre](https://github.com/mercadolibre)
 
-- 🧠 I’m looking to collaborate on **cool and interesting projects**
+- 🧠 Always looking to collaborate on **cool and interesting projects**
 
 - 💬 Ask me about **Go, JavaScript and whatever you think I can help you with**
 
